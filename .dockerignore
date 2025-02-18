@@ -10,6 +10,4 @@ hf_cache
 ms_cache
 om_cache
 output
-.dockerignore
-.gitattributes
-.gitignore
+
